@@ -1,5 +1,6 @@
-candidate name: Priya Dundappa Huddar
-programming language: Java
+#Candidate name: Priya Dundappa Huddar
+#programming language: Java
+
 problem 1: simple calculator
 this program performs addition, subtraction, multiplication, and division using a class in javascript. the user can enter two numbers and choose the type of operation.
 
